@@ -1,6 +1,6 @@
 name: safe_edge_insets
-description: EdgeInsets based on SafeArea
-version: 0.0.1
+description: EdgeInsets based on SafeArea.
+version: 0.0.2
 homepage: https://github.com/gurasan0110/safe_edge_insets
 
 environment:

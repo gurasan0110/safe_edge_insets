@@ -6,7 +6,7 @@ EdgeInsets based on SafeArea.
 
 ```yaml
 dependencies:
-  safe_edge_insets: ^0.0.2
+  safe_edge_insets: ^0.0.3
 ```
 
 ## Usage

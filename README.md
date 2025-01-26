@@ -6,7 +6,7 @@ EdgeInsets based on SafeArea.
 
 ```yaml
 dependencies:
-  safe_edge_insets: ^0.0.3
+  safe_edge_insets: ^0.0.4
 ```
 
 ## Usage
@@ -18,17 +18,17 @@ final SafeEdgeInsets padding = SafeEdgeInsets(
   context,
 
   /// Whether to avoid system intrusions on the left.
-  left: true,
+  avoidLeft: true,
 
   /// Whether to avoid system intrusions at the top of the screen, typically the
   /// system status bar.
-  top: true,
+  avoidTop: true,
 
   /// Whether to avoid system intrusions on the right.
-  right: true,
+  avoidRight: true,
 
   /// Whether to avoid system intrusions on the bottom side of the screen.
-  bottom: true,
+  avoidBottom: true,
 
   /// This minimum padding to apply.
   ///
